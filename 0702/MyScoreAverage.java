@@ -1,5 +1,4 @@
 public class MyScoreAverage {
-   
     public static void main(String[] args) {
         int Java = 85;
         int English = 78;
