@@ -2,7 +2,7 @@ public class CourseInfo {
     public static void main(String[] args) {
         String courseName = "程式設計與資料結構";
         int credits = 2;
-        double hours = 0.833;
+        double hours = 0.8;
         boolean required = true;
 
         System.out.println("課程名稱: " + courseName);
