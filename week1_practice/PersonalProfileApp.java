@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 public class PersonalProfileApp {
 
     public static void main(String[] args) {
@@ -22,11 +20,11 @@ public class PersonalProfileApp {
 
     
         if (!isValid(age, height, weight)) {
-            System.out.println("錯誤：輸入的數值必須大於0！");
+            System.out.println("錯誤: d輸入的數值必須大於0!");
             return;
         }
 
-        // 3. 呼叫各式方法進行計算與邏輯判斷
+        
         double bmi = calculateBMI(height, weight);
         String bmiCategory = getCategory(bmi);
         boolean isDistrict = checkDistrict(age); 
