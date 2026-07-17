@@ -1,13 +1,14 @@
 {
   "java.project.sourcePaths": [
     "week1_practice",
+    "midterm_exam",
     "0715",
     "0714",
     "0709",
     "0708",
     "0707",
     "0702",
-    "midterm_exam"
+    "0716"
   ],
 
   "java.project.outputPath": "bin"
